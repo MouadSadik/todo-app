@@ -27,5 +27,5 @@ MyTaskApp is a simple and intuitive task management web application built with N
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mytaskapp.git
+git clone https://github.com/MouadSadik/mytaskapp.git
 cd mytaskapp
