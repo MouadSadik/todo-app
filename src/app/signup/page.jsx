@@ -55,7 +55,7 @@ const SignupPage = () => {
             }
 
             alert("Signup successful.")
-            router.push("/dashboard")
+            router.push("/tasks")
         } catch (error) {
             console.log(error)
             setErrorMsg("Unknown error.")
